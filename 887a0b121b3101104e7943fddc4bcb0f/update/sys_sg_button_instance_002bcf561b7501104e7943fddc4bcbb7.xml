@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Change Request)">0c2bcf561b7501104e7943fddc4bcba4</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Change Request)</name>
+        <order/>
+        <parent>842bcf561b7501104e7943fddc4bcb58</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 10:06:45</sys_created_on>
+        <sys_id>002bcf561b7501104e7943fddc4bcbb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Change Request)</sys_name>
+        <sys_package display_value="test github" source="x_694780_test_gith">887a0b121b3101104e7943fddc4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test github">887a0b121b3101104e7943fddc4bcb0f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_002bcf561b7501104e7943fddc4bcbb7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 10:06:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=002bcf561b7501104e7943fddc4bcbb7"/>
+</record_update>

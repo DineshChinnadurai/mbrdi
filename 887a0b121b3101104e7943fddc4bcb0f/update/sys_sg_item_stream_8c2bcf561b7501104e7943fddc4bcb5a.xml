@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="test github Change Request">b31bcf561b7501104e7943fddc4bcb20</data_item>
+        <interleaved_field/>
+        <name>Change Request Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 10:06:44</sys_created_on>
+        <sys_id>8c2bcf561b7501104e7943fddc4bcb5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Request Item Stream</sys_name>
+        <sys_package display_value="test github" source="x_694780_test_gith">887a0b121b3101104e7943fddc4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test github">887a0b121b3101104e7943fddc4bcb0f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_8c2bcf561b7501104e7943fddc4bcb5a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 10:06:44</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

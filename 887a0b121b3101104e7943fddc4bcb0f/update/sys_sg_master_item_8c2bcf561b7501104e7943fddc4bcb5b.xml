@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>change_request</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Change Request Form Screen">842bcf561b7501104e7943fddc4bcb58</embedded_screen>
+        <item_view/>
+        <name>Change Request master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-23 10:06:44</sys_created_on>
+        <sys_id>8c2bcf561b7501104e7943fddc4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change Request master_item</sys_name>
+        <sys_package display_value="test github" source="x_694780_test_gith">887a0b121b3101104e7943fddc4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test github">887a0b121b3101104e7943fddc4bcb0f</sys_scope>
+        <sys_update_name>sys_sg_master_item_8c2bcf561b7501104e7943fddc4bcb5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-23 10:06:44</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Change Request List Screen View Config">731bcf561b7501104e7943fddc4bcb21</view_config>
+    </sys_sg_master_item>
+</record_update>
